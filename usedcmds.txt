@@ -1,0 +1,16 @@
+   74  git status
+   75  git add . 
+   76  git status
+   77  git status
+   78  git commit -m "Complete Chapter 2 & 3"
+   79  git log
+   80  ls -a
+   81  cd .git
+   82  ls
+   83  git status
+   84  cd..
+   85  cd ..
+   86  git status
+   87  git diff chapter3.txt
+   88  git checkout chapter3.txt
+   89  history > usedcmds.txt
